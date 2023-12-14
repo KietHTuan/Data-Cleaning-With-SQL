@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project showcases my proficiency in data cleaning using SQL, covering a comprehensive range of tasks from data loading and database creation to advanced operations such as adding and deleting rows, tables, and columns. I address data inconsistencies, handle nulls and duplicates, leverage joins, and utilize essential SQL functions including CASE and ALTER.
+This project showcases my proficiency in data cleaning using SQL, covering a comprehensive range of tasks from data loading and database creation to advanced operations such as adding and deleting rows, tables, and columns. I address data inconsistencies, handle nulls and duplicates, leverage joins, and utilize essential SQL functions including CASE and ALTER. (see SQL codes in Sql_queries)
 
-## Key tasks (see SQL codes in Ssl_queries)
+## Key tasks 
 **1. Data loading and database creation**
    
    (Efficiently load data into SQL databases using backup restoration database.
